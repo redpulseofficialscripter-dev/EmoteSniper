@@ -1,14 +1,13 @@
 {
   "name": "emote-sniper",
   "version": "1.0.0",
-  "description": "Automated Roblox emote and animation sniper",
+  "description": "Automated Roblox emote and animation tracker",
   "main": "run.js",
   "scripts": {
-    "start": "node run.js",
-    "update": "node run.js"
+    "start": "node run.js"
   },
-  "keywords": ["roblox", "emotes", "animations", "sniper"],
-  "author": "Your Name",
+  "keywords": ["roblox", "emotes", "animations"],
+  "author": "GitHub Action",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
